@@ -1,0 +1,96 @@
+c:\users\usuario\documents\visual studio 2012\Projects\Projeto\Projeto\bin\Debug\Projeto.exe.config
+c:\users\usuario\documents\visual studio 2012\Projects\Projeto\Projeto\bin\Debug\Projeto.exe
+c:\users\usuario\documents\visual studio 2012\Projects\Projeto\Projeto\bin\Debug\Projeto.pdb
+c:\users\usuario\documents\visual studio 2012\Projects\Projeto\Projeto\obj\Debug\Projeto.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2012\Projects\Projeto\Projeto\obj\Debug\Projeto.Form1.resources
+c:\users\usuario\documents\visual studio 2012\Projects\Projeto\Projeto\obj\Debug\Projeto.Formulário_Cadastro.Cliente.resources
+c:\users\usuario\documents\visual studio 2012\Projects\Projeto\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+c:\users\usuario\documents\visual studio 2012\Projects\Projeto\Projeto\obj\Debug\Projeto.csproj.GenerateResource.Cache
+c:\users\usuario\documents\visual studio 2012\Projects\Projeto\Projeto\obj\Debug\Projeto.exe
+c:\users\usuario\documents\visual studio 2012\Projects\Projeto\Projeto\obj\Debug\Projeto.pdb
+C:\Users\USUARIO\Documents\Visual Studio 2012\Projects\Projeto\Projeto\obj\Debug\Projeto.Formulário_Cadastro.Fornecedor.resources
+C:\Users\USUARIO\Documents\Visual Studio 2012\Projects\Projeto\Projeto\obj\Debug\Projeto.Formulário_Cadastro.Funcionário.resources
+C:\Users\USUARIO\Documents\Visual Studio 2012\Projects\Projeto\Projeto\obj\Debug\Projeto.Formulário_Login.Login.resources
+C:\Users\USUARIO\Documents\Visual Studio 2012\Projects\Projeto\Projeto\obj\Debug\Projeto.Formulário_Consulta.ClienteAlterar.resources
+C:\Users\USUARIO\Documents\Visual Studio 2012\Projects\Projeto\Projeto\obj\Debug\Projeto.Formulário_Consulta.FornecedorAlterar.resources
+C:\Users\USUARIO\Documents\Visual Studio 2012\Projects\Projeto\Projeto\obj\Debug\Projeto.Formulário_Consulta.FuncionarioAlterar.resources
+C:\Users\USUARIO\documents\visual studio 2012\Projects\Projeto\Projeto\obj\Debug\Projeto.Formulário_Cadastro.Produto.resources
+C:\Users\USUARIO\Desktop\TCC\Projeto\Projeto\bin\Debug\Projeto.exe.config
+C:\Users\USUARIO\Desktop\TCC\Projeto\Projeto\obj\Debug\Projeto.exe
+C:\Users\USUARIO\Desktop\TCC\Projeto\Projeto\obj\Debug\Projeto.pdb
+C:\Users\USUARIO\Desktop\TCC\Projeto\Projeto\bin\Debug\Projeto.exe
+C:\Users\USUARIO\Desktop\TCC\Projeto\Projeto\bin\Debug\Projeto.pdb
+C:\Users\USUARIO\Desktop\TCC\Projeto\Projeto\obj\Debug\Projeto.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Desktop\TCC\Projeto\Projeto\obj\Debug\Projeto.Form1.resources
+C:\Users\USUARIO\Desktop\TCC\Projeto\Projeto\obj\Debug\Projeto.Formulário_Cadastro.Cliente.resources
+C:\Users\USUARIO\Desktop\TCC\Projeto\Projeto\obj\Debug\Projeto.Formulário_Cadastro.Fornecedor.resources
+C:\Users\USUARIO\Desktop\TCC\Projeto\Projeto\obj\Debug\Projeto.Formulário_Consulta.ClienteAlterar.resources
+C:\Users\USUARIO\Desktop\TCC\Projeto\Projeto\obj\Debug\Projeto.Formulário_Consulta.FornecedorAlterar.resources
+C:\Users\USUARIO\Desktop\TCC\Projeto\Projeto\obj\Debug\Projeto.Formulário_Consulta.FuncionarioAlterar.resources
+C:\Users\USUARIO\Desktop\TCC\Projeto\Projeto\obj\Debug\Projeto.Formulário_Login.Login.resources
+C:\Users\USUARIO\Desktop\TCC\Projeto\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\TCC\Projeto\Projeto\obj\Debug\Projeto.csproj.GenerateResource.Cache
+C:\Users\USUARIO\Desktop\TCC\Projeto\Projeto\obj\Debug\Projeto.Formulário_Cadastro.FormFuncionario.resources
+C:\Users\USUARIO\Desktop\TCC\Projeto\Projeto\obj\Debug\Projeto.Formulário_Cadastro.FormProduto.resources
+C:\Users\USUARIO\Desktop\Aquiiiiiiiiiiiiiii\Projeto\Projeto\bin\Debug\Projeto.exe.config
+C:\Users\USUARIO\Desktop\Aquiiiiiiiiiiiiiii\Projeto\Projeto\obj\Debug\Projeto.exe
+C:\Users\USUARIO\Desktop\Aquiiiiiiiiiiiiiii\Projeto\Projeto\obj\Debug\Projeto.pdb
+C:\Users\USUARIO\Desktop\Aquiiiiiiiiiiiiiii\Projeto\Projeto\bin\Debug\Projeto.exe
+C:\Users\USUARIO\Desktop\Aquiiiiiiiiiiiiiii\Projeto\Projeto\bin\Debug\Projeto.pdb
+C:\Users\USUARIO\Desktop\Aquiiiiiiiiiiiiiii\Projeto\Projeto\obj\Debug\Projeto.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Desktop\Aquiiiiiiiiiiiiiii\Projeto\Projeto\obj\Debug\Projeto.Form1.resources
+C:\Users\USUARIO\Desktop\Aquiiiiiiiiiiiiiii\Projeto\Projeto\obj\Debug\Projeto.Formulário_Cadastro.Cliente.resources
+C:\Users\USUARIO\Desktop\Aquiiiiiiiiiiiiiii\Projeto\Projeto\obj\Debug\Projeto.Formulário_Cadastro.Fornecedor.resources
+C:\Users\USUARIO\Desktop\Aquiiiiiiiiiiiiiii\Projeto\Projeto\obj\Debug\Projeto.Formulário_Cadastro.FormFuncionario.resources
+C:\Users\USUARIO\Desktop\Aquiiiiiiiiiiiiiii\Projeto\Projeto\obj\Debug\Projeto.Formulário_Cadastro.FormProduto.resources
+C:\Users\USUARIO\Desktop\Aquiiiiiiiiiiiiiii\Projeto\Projeto\obj\Debug\Projeto.Formulário_Consulta.ClienteAlterar.resources
+C:\Users\USUARIO\Desktop\Aquiiiiiiiiiiiiiii\Projeto\Projeto\obj\Debug\Projeto.Formulário_Consulta.FornecedorAlterar.resources
+C:\Users\USUARIO\Desktop\Aquiiiiiiiiiiiiiii\Projeto\Projeto\obj\Debug\Projeto.Formulário_Consulta.FuncionarioAlterar.resources
+C:\Users\USUARIO\Desktop\Aquiiiiiiiiiiiiiii\Projeto\Projeto\obj\Debug\Projeto.Formulário_Login.Login.resources
+C:\Users\USUARIO\Desktop\Aquiiiiiiiiiiiiiii\Projeto\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\Aquiiiiiiiiiiiiiii\Projeto\Projeto\obj\Debug\Projeto.csproj.GenerateResource.Cache
+C:\Users\USUARIO\Desktop\Aquiiiiiiiiiiiiiii\Projeto\Projeto\obj\Debug\Projeto.Formulário_Consulta.ProdutoALterar.resources
+C:\Users\USUARIO\Documents\Aquiiiiiiiiiiiiiii\Projeto\Projeto\bin\Debug\Projeto.exe.config
+C:\Users\USUARIO\Documents\Aquiiiiiiiiiiiiiii\Projeto\Projeto\obj\Debug\Projeto.exe
+C:\Users\USUARIO\Documents\Aquiiiiiiiiiiiiiii\Projeto\Projeto\obj\Debug\Projeto.pdb
+C:\Users\USUARIO\Documents\Aquiiiiiiiiiiiiiii\Projeto\Projeto\bin\Debug\Projeto.exe
+C:\Users\USUARIO\Documents\Aquiiiiiiiiiiiiiii\Projeto\Projeto\bin\Debug\Projeto.pdb
+C:\Users\USUARIO\Documents\Aquiiiiiiiiiiiiiii\Projeto\Projeto\obj\Debug\Projeto.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Documents\Aquiiiiiiiiiiiiiii\Projeto\Projeto\obj\Debug\Projeto.Form1.resources
+C:\Users\USUARIO\Documents\Aquiiiiiiiiiiiiiii\Projeto\Projeto\obj\Debug\Projeto.Formulário_Cadastro.Cliente.resources
+C:\Users\USUARIO\Documents\Aquiiiiiiiiiiiiiii\Projeto\Projeto\obj\Debug\Projeto.Formulário_Cadastro.Fornecedor.resources
+C:\Users\USUARIO\Documents\Aquiiiiiiiiiiiiiii\Projeto\Projeto\obj\Debug\Projeto.Formulário_Cadastro.FormFuncionario.resources
+C:\Users\USUARIO\Documents\Aquiiiiiiiiiiiiiii\Projeto\Projeto\obj\Debug\Projeto.Formulário_Cadastro.FormProduto.resources
+C:\Users\USUARIO\Documents\Aquiiiiiiiiiiiiiii\Projeto\Projeto\obj\Debug\Projeto.Formulário_Consulta.ClienteAlterar.resources
+C:\Users\USUARIO\Documents\Aquiiiiiiiiiiiiiii\Projeto\Projeto\obj\Debug\Projeto.Formulário_Consulta.FornecedorAlterar.resources
+C:\Users\USUARIO\Documents\Aquiiiiiiiiiiiiiii\Projeto\Projeto\obj\Debug\Projeto.Formulário_Consulta.FuncionarioAlterar.resources
+C:\Users\USUARIO\Documents\Aquiiiiiiiiiiiiiii\Projeto\Projeto\obj\Debug\Projeto.Formulário_Consulta.ProdutoALterar.resources
+C:\Users\USUARIO\Documents\Aquiiiiiiiiiiiiiii\Projeto\Projeto\obj\Debug\Projeto.Formulário_Login.Login.resources
+C:\Users\USUARIO\Documents\Aquiiiiiiiiiiiiiii\Projeto\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+C:\Users\USUARIO\Documents\Aquiiiiiiiiiiiiiii\Projeto\Projeto\obj\Debug\Projeto.csproj.GenerateResource.Cache
+C:\Users\USUARIO\Documents\Aquiiiiiiiiiiiiiii\Projeto\Projeto\obj\Debug\Projeto.Formulário_de_Venda.FormVenda.resources
+C:\Users\USUARIO\Documents\Aquiiiiiiiiiiiiiii\Projeto\Projeto\obj\Debug\Projeto.Formulário_de_Venda.VendaAlterar.resources
+H:\Aquiiiiiiiiiiiiiii\Projeto\Projeto\bin\Debug\Projeto.exe.config
+H:\Aquiiiiiiiiiiiiiii\Projeto\Projeto\obj\Debug\Projeto.exe
+C:\Users\USUARIO\Desktop\Aquiiiiiiiiiiiiiii\Projeto\Projeto\obj\Debug\Projeto.Formulário_de_Venda.FormVenda.resources
+C:\Users\USUARIO\Desktop\Aquiiiiiiiiiiiiiii\Projeto\Projeto\obj\Debug\Projeto.Formulário_de_Venda.VendaAlterar.resources
+C:\Users\ASSISTENTE\Desktop\Aquiiiiiiiiiiiiiii\Projeto\Projeto\bin\Debug\Projeto.exe.config
+C:\Users\ASSISTENTE\Desktop\Aquiiiiiiiiiiiiiii\Projeto\Projeto\obj\Debug\Projeto.exe
+C:\Users\ASSISTENTE\Desktop\Aquiiiiiiiiiiiiiii\Projeto\Projeto\obj\Debug\Projeto.pdb
+C:\Users\ASSISTENTE\Desktop\Aquiiiiiiiiiiiiiii\Projeto\Projeto\bin\Debug\Projeto.exe
+C:\Users\ASSISTENTE\Desktop\Aquiiiiiiiiiiiiiii\Projeto\Projeto\bin\Debug\Projeto.pdb
+C:\Users\ASSISTENTE\Desktop\Aquiiiiiiiiiiiiiii\Projeto\Projeto\obj\Debug\Projeto.csprojResolveAssemblyReference.cache
+C:\Users\ASSISTENTE\Desktop\Aquiiiiiiiiiiiiiii\Projeto\Projeto\obj\Debug\Projeto.Form1.resources
+C:\Users\ASSISTENTE\Desktop\Aquiiiiiiiiiiiiiii\Projeto\Projeto\obj\Debug\Projeto.Formulário_Cadastro.Cliente.resources
+C:\Users\ASSISTENTE\Desktop\Aquiiiiiiiiiiiiiii\Projeto\Projeto\obj\Debug\Projeto.Formulário_Cadastro.Fornecedor.resources
+C:\Users\ASSISTENTE\Desktop\Aquiiiiiiiiiiiiiii\Projeto\Projeto\obj\Debug\Projeto.Formulário_Cadastro.FormFuncionario.resources
+C:\Users\ASSISTENTE\Desktop\Aquiiiiiiiiiiiiiii\Projeto\Projeto\obj\Debug\Projeto.Formulário_Cadastro.FormProduto.resources
+C:\Users\ASSISTENTE\Desktop\Aquiiiiiiiiiiiiiii\Projeto\Projeto\obj\Debug\Projeto.Formulário_Consulta.ClienteAlterar.resources
+C:\Users\ASSISTENTE\Desktop\Aquiiiiiiiiiiiiiii\Projeto\Projeto\obj\Debug\Projeto.Formulário_Consulta.FornecedorAlterar.resources
+C:\Users\ASSISTENTE\Desktop\Aquiiiiiiiiiiiiiii\Projeto\Projeto\obj\Debug\Projeto.Formulário_Consulta.FuncionarioAlterar.resources
+C:\Users\ASSISTENTE\Desktop\Aquiiiiiiiiiiiiiii\Projeto\Projeto\obj\Debug\Projeto.Formulário_Consulta.ProdutoALterar.resources
+C:\Users\ASSISTENTE\Desktop\Aquiiiiiiiiiiiiiii\Projeto\Projeto\obj\Debug\Projeto.Formulário_de_Venda.FormVenda.resources
+C:\Users\ASSISTENTE\Desktop\Aquiiiiiiiiiiiiiii\Projeto\Projeto\obj\Debug\Projeto.Formulário_de_Venda.VendaAlterar.resources
+C:\Users\ASSISTENTE\Desktop\Aquiiiiiiiiiiiiiii\Projeto\Projeto\obj\Debug\Projeto.Formulário_Login.Login.resources
+C:\Users\ASSISTENTE\Desktop\Aquiiiiiiiiiiiiiii\Projeto\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+C:\Users\ASSISTENTE\Desktop\Aquiiiiiiiiiiiiiii\Projeto\Projeto\obj\Debug\Projeto.csproj.GenerateResource.Cache
